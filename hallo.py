@@ -1,2 +1,2 @@
-print("hallo")
+print("hallo!\n")
 print("en nog een hallo")
